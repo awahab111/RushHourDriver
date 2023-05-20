@@ -1,13 +1,3 @@
-//============================================================================
-// Name        : Abdul Wahab
-// Section     : Y
-// Roll-Number : i210675
-// Author      : FAST CS Department
-// Version     :
-// Copyright   : (c) Reserved
-// Description : Basic 2D game of Rush Hour...
-//============================================================================
-
 #ifndef RushHour_CPP_
 #define RushHour_CPP_
 #include "util.h"
